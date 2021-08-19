@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:sqflite/sqlite_api.dart';
 import 'package:sqlitekpdemo/databasehandler.dart';
 import 'package:sqlitekpdemo/edit.dart';
 import 'package:sqlitekpdemo/user.dart';
